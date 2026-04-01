@@ -1,1 +1,12 @@
+# DS_Store
 .DS_Store
+
+# object
+*.o
+
+# executables
+*.exe
+*.elf
+main
+main_static
+main_shared
