@@ -10,3 +10,6 @@
 main
 main_static
 main_shared
+
+# pdf
+*.pdf
